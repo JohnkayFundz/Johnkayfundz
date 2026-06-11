@@ -1,38 +1,42 @@
-# 👋 Hey, I'm John Kalumba
-
 <div align="center">
 
-# 💻 Tech Explorer | Web Developer in Progress | Future Founder
+# 👋 Hi, I'm John Kalumba
 
-*"Learning, building, and creating opportunities through technology."*
+### 💻 Web Developer in Progress | 🚀 Future Founder | 🌍 Tech Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Web+Development;Building+Projects+Every+Week;Turning+Skills+Into+Income;Future+Freelancer+and+Founder" />
+
+![](https://komarev.com/ghpvc/?username=JohnkayFundz&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm passionate about technology, web development, digital skills, and building projects that solve real problems.
+I'm passionate about technology, web development, digital creativity, and building projects that create real value.
 
-Currently on a journey to:
-- 🌱 Master Web Development
-- 💡 Build Websites & Apps
-- 🚀 Create Real-World Projects
-- 💰 Turn Tech Skills Into Income
-- 📚 Learn New Technologies Every Day
+### Current Mission
+- 🌱 Learning modern web development
+- 💻 Building websites and apps
+- 🚀 Growing my GitHub portfolio
+- 💰 Turning tech skills into income
+- 📚 Learning by building real projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## Frontend
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools
+## Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -41,86 +45,95 @@ Currently on a journey to:
 
 ---
 
-## 📚 Currently Learning
+# 🎯 2026 Goals
 
-- HTML & CSS
-- JavaScript
-- Git & GitHub
-- Responsive Web Design
-- React
-- Building Portfolio Projects
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Build and deploy 10 projects
-- [ ] Create a professional portfolio website
+- [ ] Build 10 portfolio projects
+- [ ] Master JavaScript fundamentals
 - [ ] Learn React
-- [ ] Start freelancing
-- [ ] Contribute to open source
-- [ ] Earn income from tech skills
+- [ ] Launch a professional portfolio website
+- [ ] Get my first freelance client
+- [ ] Earn income through tech
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Currently Learning
+
+```txt
+HTML/CSS       ██████████░░ 80%
+JavaScript     ██████░░░░░░ 60%
+Git & GitHub   ████████░░░░ 70%
+React          ███░░░░░░░░░ 30%
+```
+
+---
+
+# 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-A personal website showcasing my skills, projects, and learning journey.
+My personal website showcasing my skills and projects.
 
 ### ✅ To-Do App
-A simple productivity app built with JavaScript.
+Task management app built with JavaScript.
 
-### 🌦️ Weather App
-A weather dashboard powered by APIs.
+### 🌦 Weather App
+Weather dashboard using APIs.
 
-### 💰 Future Projects
-- Expense Tracker
-- Business Landing Pages
-- AI-Powered Web Apps
-- Freelance Client Websites
+### 💰 Future Freelance Projects
+Business websites, landing pages, and web applications.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnkayfundz&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnkayFundz&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkayfundz&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnkayFundz&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=johnkayfundz&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=JohnkayFundz&theme=tokyonight)
 
 ---
 
-## 🌍 Connect With Me
+# 🏆 Achievements
 
-- GitHub: https://github.com/johnkayfundz
+[![trophy](https://github-profile-trophy.vercel.app/?username=JohnkayFundz&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnkayFundz&theme=tokyo-night)
+
+---
+
+# 🤝 Let's Connect
+
+- GitHub: https://github.com/JohnkayFundz
 - deejayjohnkay@gmail.com
 - johnkayfundz@gmail.com
-- whatsapp number : +2348188840165
-- calling number +2348188840165
+- whatsapp number: +2348188840165
+- calling number: +2348188840165
 
 ---
 
-## 💭 Motto
+# 💭 Personal Motto
 
 > "Learn. Build. Share. Repeat."
 
 ---
 
-### ⚡ Fun Facts
+# ⚡ Fun Facts
 
-- 🎵 Music keeps me productive.
-- 🌐 I enjoy discovering new tech and internet gems.
-- 🍺 I enjoy good vibes and hanging out with friends.
-- 🚀 Every day I aim to learn something that moves me closer to a tech career.
+- 🎵 I enjoy Afrobeats, Hip-Hop, Trap, Blues, Country & Reggae
+- 🌐 I love discovering new technology and internet gems
+- 🍺 Good vibes and good company matter
+- 🚀 Every project gets me one step closer to my goals
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### ⭐ Thanks for stopping by!
 
-Building one project at a time.
+**Building the future one project at a time.**
 
 </div>
